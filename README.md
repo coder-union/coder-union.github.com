@@ -2,4 +2,4 @@ Coder Union Web Pages
 =====================
 
 - As it exists
-- [coderunion.xyz](coderunion.xyz)
+- [coderunion.xyz](http://coderunion.xyz)
